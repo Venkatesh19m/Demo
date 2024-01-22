@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>demo</name>
+	<name>gitopscalculator Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -124,7 +124,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub NidaAP Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/Venkatesh19m/demo</url>
+			<url>https://github.com/Venkatesh19m/Demo</url>
 		</repository>
 	</distributionManagement>
 </project>
